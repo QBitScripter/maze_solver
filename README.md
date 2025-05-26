@@ -22,7 +22,7 @@ An interactive web-based maze solver that uses Deep Q-Learning to find optimal p
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/QBitScripter/maze_solver
 cd maze-solver-qlearning
 ```
 
@@ -85,13 +85,8 @@ maze-solver-qlearning/
 └── README.md
 ```
 
-## 🎥 Demo
 
-[Add a GIF or screenshot of your maze solver in action]
 
-## 📝 License
-
-[Add your chosen license]
 
 ## 🤝 Contributing
 
